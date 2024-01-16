@@ -3,7 +3,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url1]
-[![LinkedIn][linkedin-shield]][linkedin-url2]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -72,7 +71,7 @@ Python 3.11.6^
 1. Clone the repo
 
    ```sh
-   $ git@github.com:dilancroos/sql_assignment.git
+   $ git clone git@github.com:dilancroos/sql_assignment.git
    ```
 
 2. Change to the working directory
@@ -93,6 +92,12 @@ Python 3.11.6^
 
   ```sh
    $ python -m venv .venv
+  ```
+
+- Enter the virtual environment .venv
+
+  ```sh
+   $ source .venv/bin/activate
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -120,19 +125,18 @@ Project Link: [https://github.com/dilancroos/sql_assignment](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dilancroos/data_science_project.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/dilancroos/sql_assignment.svg?style=for-the-badge
 [contributors-url]: https://github.com/dilancroos/sql_assignment/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dilancroos/data_science_project.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/dilancroos/sql_assignment.svg?style=for-the-badge
 [forks-url]: https://github.com/dilancroos/sql_assignment/network/members
-[stars-shield]: https://img.shields.io/github/stars/dilancroos/data_science_project.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/dilancroos/sql_assignment.svg?style=for-the-badge
 [stars-url]: https://github.com/dilancroos/sql_assignment/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dilancroos/data_science_project.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/dilancroos/sql_assignment.svg?style=for-the-badge
 [issues-url]: https://github.com/dilancroos/sql_assignment/issues
-[license-shield]: https://img.shields.io/github/license/dilancroos/data_science_project.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/dilancroos/sql_assignment.svg?style=for-the-badge
 [license-url]: https://github.com/dilancroos/sql_assignment/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url1]: https://linkedin.com/in/antondilancrooswarnakulasuriya
-[linkedin-url2]: https://linkedin.com/in/tarek-nouneh-09b17527b/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
