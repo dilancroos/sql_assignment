@@ -27,7 +27,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-assessment">About The Assessment</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -44,9 +44,42 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About The Assessment
 
-### Star Wars Data Set
+### Star Wars Data Set - SQL - A basic for Data
+
+#### Subject 📁
+
+Work with SQL as a Data Engineer AND as a Data Analyst !
+
+#### SQL for Data Engineers 📖
+
+Based on what we have seen during the lesson, you will create a schema based on Star
+Wars API with several tables and relations (people, films, vehicles) -› https://swapi.dev/.
+Extract, Transform and Load your data using Python in a sqlite database.
+Analyse it with (and only with SQL). It means if you need some cleaning, do it during the
+Transformation step.
+
+#### SQL for Analysis 💪
+
+Do some SQL analysis
+
+- 1 request with INNER
+- 1 request with LEFT
+- 1 request with GROUP BY
+- 1 request with HAVING
+- 1 request with CTE
+  Comment your requests to explain what you wanted to display
+
+#### To make it great 🔥
+
+The harder the requests will be, the better the mark.
+
+#### Constraint ☢
+
+Jupyter notebook - Python 3 (only for SQL request)
+No bug/error/warning
+Save your work as {sql*tp}*{name}.pynb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
